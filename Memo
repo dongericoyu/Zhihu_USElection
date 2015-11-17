@@ -1,0 +1,27 @@
+11/16/2015
+1.Discussion with Hu:
+Two possible approach:（1）focus on 1,500 follower of the IAmElection Column who have background information (education, location, occupation)
+and analyzing (spatial model; topic model)
+(2) looking at the "精华话题" on 2016 Election (around 50 by November 2015). Start with a single topic/question with many and diverse answers and comments;
+- grouping comments by their political stands; simple word clouds or topic model (?)
+- analzying people who like the answer, or who comments after the answer: use text analysis and see whether this present liberal or conservative view
+- study the relationship between user profile/background and their political stands;
+- if possible, compiling network data:
+    --an user receiving like: in-degree propularity;
+    --an user like someone: out-degree;
+
+2.Discussion with You:
+(1)Current Data:
+- IAmElection Column followers' simple profile information, including how many likes, how many followers; but no information of who like them, or what comments or question they make
+(2)Erico:
+- starting with a single thread: learn about how to use Java and a loop program to cut the comments from the html page; especially cuting Chinese text
+
+
+(3)conclusion:
+A. Conduct a preliminary study based on existing data and propose a survey aiming at followers; should be conducted in Jan or Feb of 2016
+--Erico: design survey; draft sent to You by first weekend of December
+--Erico: can do multiple rounds of survey;
+--publish a paper on the preliminary result is critically important! 
+B. At the same time, continue data scraping and cleaning;
+--You: Python; focuse on IAmElection
+--Erico: R and web scraping:
